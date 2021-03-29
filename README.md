@@ -2,7 +2,7 @@
 
 
 <img src="https://i.ibb.co/0BGM10V/logo.png" alt="gopher"
-	width="30%" height="auto" />
+	width="30%" height="auto" style="display:block; margin 0 auto;"/>
 
 <!--
 **Barto-dev/Barto-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
