@@ -1,13 +1,14 @@
 
-![alt text](https://i.ibb.co/0BGM10V/logo.png)
+
 
 <img src="https://i.ibb.co/0BGM10V/logo.png" alt="gopher"
-	title="A cute kitten" width="150" height="100" />
+	width="30%" height="auto" />
 
 <!--
 **Barto-dev/Barto-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
 Here are some ideas to get you started:
+![alt text](https://i.ibb.co/0BGM10V/logo.png)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
