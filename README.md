@@ -1,6 +1,9 @@
 
 # :heart: build software
 
+Hi, my name is Ilya. I am a front-end developer. I mainly work on online stores and my own small projects. PWA enthusiast. Сonstantly interested in everything related to the web platform. 
+- :books: Currently learning Go and Typescript in my free time
+
 <img src="https://i.ibb.co/0BGM10V/logo.png" alt="gopher"
 	width="30%" height="auto" style="display:block; margin 0 auto;"/>
 
