@@ -5,7 +5,7 @@ Hi, my name is Ilia. I am a front-end developer. I mainly work on online stores 
 - :books: Currently learning Go and Typescript in my free time
 - :point_down: This marmot is looking at me :smile:
 
-<img src="https://i.ibb.co/0BGM10V/logo.png" alt="gopher"
+<img src="https://cdn.freebiesupply.com/logos/thumbs/2x/gopher-logo.png" alt="gopher"
 	width="30%" height="auto" style="display:block; margin 0 auto;"/>
 
 <!--
