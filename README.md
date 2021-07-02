@@ -3,7 +3,6 @@
 
 Hi, my name is Ilia. I am a front-end developer. I mainly work on online stores and my own small projects. Constantly interested in everything related to the web platform and Progressive Web Applications. I believe that the difference between the web and the native platform will soon disappear, thanks to projects like [Fugu](https://fugu-tracker.web.app/), and the people who come up with all these cool features and implement them in browsers.
 - :books: Currently learning Go and Typescript in my free time
-- :point_down: This marmot is looking at me :smile:
 
 <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/gopher-logo.png" alt="gopher"
 	width="30%" height="auto" style="display:block; margin 0 auto;"/>
