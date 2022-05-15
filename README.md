@@ -3,9 +3,6 @@
 
 Hi, my name is Illia. I am a front-end developer. I mainly work on online stores and my own small projects. Constantly interested in everything related to the web platform and Progressive Web Applications. I believe that the difference between the web and the native platform will soon disappear, thanks to projects like [Fugu](https://fugu-tracker.web.app/), and the people who come up with all these cool features and implement them in browsers.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=barto-dev&label=Profile%20views&color=blueviolet&style=plastic" alt="my profile views" /></p>
-<p align="center">&nbsp;<img align="center" src="https://raw.githubusercontent.com/Barto-dev/Barto-dev/8aac85c84c50a1b633331a2b7400562556069934/snake.svg" alt="my github stats in game" /></p>
-
  <h3 align="center">Current Stack:</h3>
  <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -23,6 +20,11 @@ Hi, my name is Illia. I am a front-end developer. I mainly work on online stores
    <a href="https://hub.docker.com/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
+
+<p align="center">&nbsp;<img align="center" src="https://raw.githubusercontent.com/Barto-dev/Barto-dev/8aac85c84c50a1b633331a2b7400562556069934/snake.svg" alt="my github stats in game" /></p>
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=barto-dev&label=Profile%20views&color=blueviolet&style=plastic" alt="my profile views" /></p>
 <!--
 **Barto-dev/Barto-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
