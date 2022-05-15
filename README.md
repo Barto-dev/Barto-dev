@@ -24,7 +24,7 @@ Hi, my name is Illia. I am a front-end developer. I mainly work on online stores
 <p align="center">&nbsp;<img align="center" src="https://raw.githubusercontent.com/Barto-dev/Barto-dev/8aac85c84c50a1b633331a2b7400562556069934/snake.svg" alt="my github stats in game" /></p>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=barto-dev&label=Profile%20views&color=blueviolet&style=plastic" alt="my profile views" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=barto-dev&label=Profile%20views&color=brightgreen&style=plastic" alt="my profile views" /></p>
 <!--
 **Barto-dev/Barto-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
