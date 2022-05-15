@@ -2,6 +2,9 @@
 ## :heart: build software
 
 Hi, my name is Illia. I am a front-end developer. I mainly work on online stores and my own small projects. Constantly interested in everything related to the web platform and Progressive Web Applications. I believe that the difference between the web and the native platform will soon disappear, thanks to projects like [Fugu](https://fugu-tracker.web.app/), and the people who come up with all these cool features and implement them in browsers.
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=barto-dev&label=Profile%20views&color=blueviolet&style=plastic" alt="my profile views" /></p>
+<p align="center">&nbsp;<img align="center" src="https://raw.githubusercontent.com/barto-dev/barto-dev/output/github-contribution-grid-snake.svg" alt="my github stats in game" /></p>
 <!--
 - :books: Currently learning Go and Typescript in my free time
 
