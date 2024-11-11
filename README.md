@@ -9,7 +9,7 @@ in browsers.
 <h3>Tools, languages, and other things that I like to work with.</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,apollo,astro,docker,figma,git,github,graphql,nestjs,nextjs,remix,nodejs,npm,pnpm,bun,react,supabase,svelte,tailwind,terraform,ts,neovim,vite,vitest,webstorm,svelte&theme=light" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,apollo,astro,docker,figma,git,github,graphql,nestjs,nextjs,remix,nodejs,npm,pnpm,bun,react,supabase,svelte,tailwind,terraform,ts,neovim,vite,vitest,webstorm,svelte" />
   </a>
 </p>
 
