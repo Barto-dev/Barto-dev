@@ -9,7 +9,7 @@ Hi, my name is Illia. I am a front-end developer. I enjoy solving complex engine
     <img src="graphql.png" alt="javascript" width="40" height="40" />
   </a>
   <a style="text-decoration: none" href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-    <img src="git.png" alt="typescript" width="40" height="40" />
+    <img src="img/git.png" alt="typescript" width="40" height="40" />
   </a>
   <a style="text-decoration: none" href="https://github.com/" target="_blank" rel="noopener noreferrer">
     <img src="github.png" alt="typescript" width="40" height="40" />
