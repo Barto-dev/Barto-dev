@@ -6,13 +6,13 @@ Hi, my name is Illia. I am a front-end developer. I enjoy solving complex engine
  <h3 align="center">Tools, languages, and other things that I like to work with.</h3>
 <p align="center">
   <a style="text-decoration: none" href="https://graphql.org/" target="_blank">
-    <img src="graphql.png" alt="javascript" width="40" height="40" />
+    <img src="img/graphql.png" alt="javascript" width="40" height="40" />
   </a>
   <a style="text-decoration: none" href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
     <img src="img/git.png" alt="typescript" width="40" height="40" />
   </a>
   <a style="text-decoration: none" href="https://github.com/" target="_blank" rel="noopener noreferrer">
-    <img src="github.png" alt="typescript" width="40" height="40" />
+    <img src="img/github.png" alt="typescript" width="40" height="40" />
   </a>
   <a style="text-decoration: none" href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" width="40" height="40" />
