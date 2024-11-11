@@ -6,6 +6,11 @@ Hi, my name is Illia. I am a front-end developer. I enjoy solving complex engine
  <h3 align="center">Tools, languages, and other things that I like to work with.</h3>
  [![](https://skillicons.dev/icons?i=js,html,css,apollo,astro,docker,figma,git,github,graphql,nestjs,nextjs,remix,nodejs,npm,pnpm,bun,react,supabase,svelte,tailwind,terraform,ts,neovim,vite,vitest,webstorm,svelte&theme=light)](https://skillicons.dev)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 <p align="center">&nbsp;<img align="center" src="snake.svg" alt="my github stats in game" /></p>
 
