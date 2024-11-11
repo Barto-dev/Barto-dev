@@ -6,6 +6,7 @@ Hi, my name is Illia. I am a front-end developer. I enjoy solving complex engine
  <h3 align="center">Tools, languages, and other things that I like to work with.</h3>
  [![](https://skillicons.dev/icons?i=js,html,css,apollo,astro,docker,figma,git,github,graphql,nestjs,nextjs,remix,nodejs,npm,pnpm,bun,react,supabase,svelte,tailwind,terraform,ts,neovim,vite,vitest,webstorm,svelte&theme=light)](https://skillicons.dev)
 
+
 <p align="center">&nbsp;<img align="center" src="snake.svg" alt="my github stats in game" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=barto-dev&label=Profile%20views&color=brightgreen&style=flat" alt="my profile views" /></p>
