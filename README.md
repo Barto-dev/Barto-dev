@@ -1,6 +1,8 @@
+![Header](./img/github-header.png)
+
 ## :heart: build software
 
-Hi, my name is Illia. I am a front-end developer. I enjoy solving complex engineering problems that need to be thought
+Hi, my name is Illia. I am a full-stack developer. I enjoy solving complex engineering problems that need to be thought
 through carefully. Constantly interested in everything related to the web platform and Progressive Web Applications. I
 believe that the difference between the web and the native platform will soon disappear, thanks to projects
 like [Fugu](https://fugu-tracker.web.app/), and the people who come up with all these cool features and implement them
